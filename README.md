@@ -29,6 +29,6 @@ While I've successfully built this todo app, my journey doesn't end here. In my 
 - Problem Solving
 
 ## Source Code
-Check out the source code on GitHub- [anant-365](https://github.com/anant-365/YelpCamp/).
+Check out the source code on GitHub- [anant-365](https://github.com/anant-365/TodoBy-Anant/).
 
 Stay tuned for more updates as I continue to build and enhance this project! 🚀
