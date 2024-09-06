@@ -1,6 +1,6 @@
 # Todo App
 
-Hey Connections, I've been diving into JavaScript and React.js for the past month, and as part of my learning journey, I've developed the Todo app using React and Vite. Through this project, I aimed to reinforce my understanding of fundamental React concepts while also getting hands-on experience with local storage for data persistence. By creating this app, I solidified my knowledge of React components, state management, handling events, and conditional rendering.
+Hey Connections, I've been diving into JavaScript and React.js for the past few months, and as part of my learning journey, I've developed the Todo app using React and Vite. Through this project, I aimed to reinforce my understanding of fundamental React concepts while also getting hands-on experience with local storage for data persistence. By creating this app, I solidified my knowledge of React components, state management, handling events, and conditional rendering.
 
 ## Demo Video
  Click below image to watch the demo video-
