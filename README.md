@@ -3,7 +3,9 @@
 Hey Connections, I've been diving into JavaScript and React.js for the past month, and as part of my learning journey, I've developed the Todo app using React and Vite. Through this project, I aimed to reinforce my understanding of fundamental React concepts while also getting hands-on experience with local storage for data persistence. By creating this app, I solidified my knowledge of React components, state management, handling events, and conditional rendering.
 
 ## Demo Video
-!Watch the demo video
+ Click below image to watch the demo video-
+
+[![Demovideo](https://img.youtube.com/vi/BFc_FyRjMiA/0.jpg)](https://www.youtube.com/watch?v=BFc_FyRjMiA)
 
 ## Features
 
@@ -25,5 +27,8 @@ While I've successfully built this todo app, my journey doesn't end here. In my 
 - React.js
 - JavaScript
 - Problem Solving
+
+## Source Code
+Check out the source code on GitHub- [anant-365](https://github.com/anant-365/YelpCamp/).
 
 Stay tuned for more updates as I continue to build and enhance this project! 🚀
